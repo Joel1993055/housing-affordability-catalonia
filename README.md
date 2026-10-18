@@ -18,23 +18,19 @@ El projecte consta de **tres pàgines**:
 
 ## Captures del quadre de comandament
 
-### 1. Evolució i accessibilitat
+Les tres captures següents estan publicades al repositori. Es mostren segons l'ordre dels fitxers penjats.
 
-Comparació de la renda disponible per habitant i del preu del lloguer, amb indicadors de variació, sèries temporals i conclusions per municipi. La captura mostra l'exemple de **l'Armentera**.
+### Captura 1
 
-![Pàgina 1: Evolució i accessibilitat](images/01-evolucio-accessibilitat.png)
+![Captura del dashboard 1](Screenshot%202026-10-18%20104212.png)
 
-### 2. Desigualtats territorials
+### Captura 2
 
-Mapa municipal interactiu i classificació dinàmica dels municipis amb més augment del lloguer. La captura mostra l'any **2023**.
+![Captura del dashboard 2](Screenshot%202026-10-18%20104240.png)
 
-![Pàgina 2: Desigualtats territorials](images/02-desigualtats-territorials.png)
+### Captura 3
 
-### 3. Anàlisi comparativa provincial
-
-Mapa provincial net amb quatre gràfics de línies (un per província) i una taula de detall per any. El lloguer provincial es calcula com a **mitjana dels preus municipals ponderada pel nombre de contractes** amb preu publicat; no s'ha de confondre amb un indicador provincial oficial sense verificar-ne la cobertura.
-
-*Captura de la tercera pàgina pendent de pujar a `images/03-comparativa-provincial.png`.*
+![Captura del dashboard 3](Screenshot%202026-10-18%20104300.png)
 
 ## Fonts de dades
 
@@ -73,7 +69,7 @@ Als tres municipis, el preu mitjà dels nous contractes de lloguer va créixer m
 
 ## Estat dels recursos
 
-El repositori inclou el fitxer PBIX i la documentació. La versió més recent, amb tres pàgines, s'ha preparat i **està pendent de substituir el PBIX anterior del repositori**. Les captures referenciades a `images/` també estan pendents de pujada.
+El repositori inclou el fitxer PBIX, el README i tres captures publicades. **El fitxer PBIX disponible al repositori encara s'ha de verificar o substituir per l'última versió de tres pàgines**.
 
 ## Autor
 
